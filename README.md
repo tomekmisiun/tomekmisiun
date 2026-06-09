@@ -1,61 +1,97 @@
-# Hi, my name is Tomek
+# Hi, I'm Tomek 👋
 
-Builder focused on backend systems, automation and modern cloud platforms.
+Backend Developer focused on building production-ready APIs, automation systems and cloud-native applications.
 
-Currently building and deploying applications with Python, FastAPI, Docker, PostgreSQL and CI/CD.
+Currently deepening my expertise in:
 
-## Stack
-
-### Backend
 - Python
 - FastAPI
-- REST APIs
-- SQLAlchemy
 - PostgreSQL
-
-### Infrastructure & DevOps
+- SQLAlchemy
+- Redis
 - Docker
 - CI/CD
+- Cloud deployment
+
+---
+
+## Tech Stack
+
+### Backend
+
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Redis
+- JWT Authentication
+- Alembic
+
+### DevOps & Cloud
+
+- Docker
+- GitHub Actions
 - Railway
 - Linux
-- Git / GitHub
+- Git
 
 ### Frontend
+
 - React
+- TypeScript
 
-## Current Focus
+---
 
-- Backend architecture
-- Automation
-- Cloud deployment
-- DevOps engineering
-- Scalable application design
+## What I'm Building
 
-## Featured Project
+### FastAPI Backend Template
+
+Production-oriented backend template featuring:
+
+- JWT Authentication
+- Refresh Token Rotation
+- Role-Based Access Control (RBAC)
+- Redis Integration
+- PostgreSQL
+- Alembic Migrations
+- Request Logging
+- Dockerized Development Environment
+- Automated Testing
+- GitHub Actions CI
+
+---
 
 ### OnTrack
 
-Productivity and habit tracking application focused on consistency and long-term progress.
+Habit and productivity tracking application focused on consistency and long-term progress.
 
-https://ontrackapp.up.railway.app/
+🔗 https://ontrackapp.up.railway.app/
 
 Tech stack:
+
 - FastAPI
 - React
 - PostgreSQL
 - Docker
 - Railway
 
-## GitHub Stats
+---
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomekmisiun&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomekmisiun&layout=compact&hide_border=true&theme=transparent" />
-</p>
+## Current Focus
+
+- Backend Architecture
+- System Design Fundamentals
+- DevOps & Cloud Engineering
+- Observability & Monitoring
+- Scalable API Development
+
+---
 
 ## Philosophy
 
-Build real things.  
-Experiment.  
-Solve real problems.  
-Learn by shipping.
+Build.
+Ship.
+Measure.
+Improve.
+
+Learning comes from running real systems, solving real problems and iterating continuously.
