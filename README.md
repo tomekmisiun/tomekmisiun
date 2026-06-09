@@ -49,8 +49,8 @@ Tech stack:
 ## GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TWOJ_LOGIN&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_LOGIN&layout=compact&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tomek-misiun&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomek-misiun&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ## Philosophy
