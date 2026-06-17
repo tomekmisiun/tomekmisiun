@@ -108,4 +108,3 @@ Learning comes from building real systems, debugging real problems and improving
 ## Contact
 
 * LinkedIn: [linkedin.com/in/tomasz-misiun](https://linkedin.com/in/tomasz-misiun/)
-* GitHub: [github.com/tomekmisiun](https://github.com/tomekmisiun)
