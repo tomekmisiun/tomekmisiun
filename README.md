@@ -1,97 +1,122 @@
-# Hi, I'm Tomek 👋
+Hi, I'm Tomek 👋
 
-Backend Developer focused on building production-ready APIs, automation systems and cloud-native applications.
+Backend-focused developer building production-oriented APIs, automation systems and SaaS backends with Python, FastAPI, PostgreSQL and Docker.
 
-Currently deepening my expertise in:
+I'm currently focused on backend development, API architecture, database design, testing, CI/CD, observability and AI-assisted software engineering workflows.
 
-- Python
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Redis
-- Docker
-- CI/CD
-- Cloud deployment
+Currently working with
+Python
+FastAPI
+PostgreSQL
+SQLAlchemy
+Alembic
+Redis
+Docker & Docker Compose
+pytest
+GitHub Actions
+Prometheus / Sentry
+Twilio API
+Linux / Bash
+Tech Stack
+Backend
+Python 3.13
+FastAPI + Uvicorn / ASGI
+SQLAlchemy 2.0
+Alembic migrations
+PostgreSQL
+Redis
+JWT authentication
+Pydantic Settings
+httpx
+Twilio API
+Testing & Code Quality
+pytest
+pytest-cov
+pytest-xdist
+ruff
+pre-commit
+coverage thresholds
+CI validation
+DevOps & Infrastructure
+Docker
+Docker Compose
+GitHub Actions
+Linux
+Bash
+Redis
+MinIO / S3-compatible storage
+Trivy
+pip-audit
+gitleaks
+Observability
+Prometheus metrics
+Sentry error tracking
+healthchecks
+readiness checks
+request logging
+What I'm Building
+Appointment Voice SaaS
 
----
+Backend SaaS project for appointment booking through phone-based IVR flows.
 
-## Tech Stack
+The system is designed for service businesses such as salons and supports:
 
-### Backend
+IVR / DTMF phone menu flows
+SMS notifications
+call transfer logic
+appointment booking workflows
+multi-tenant business configuration
+external booking link support
+Twilio API integration
 
-- Python
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- Redis
-- JWT Authentication
-- Alembic
+Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Redis, Docker, pytest, GitHub Actions, Twilio API
 
-### DevOps & Cloud
+What I worked on:
 
-- Docker
-- GitHub Actions
-- Railway
-- Linux
-- Git
+Planned the product assumptions, roadmap and technical documentation before implementation
+Built the project on top of my reusable FastAPI backend foundation
+Designed backend API, domain models and database structure
+Implemented IVR/SMS-related backend flows
+Integrated Twilio API for voice and SMS workflows
+Added backend tests and CI validation
+Used Docker Compose for local development with PostgreSQL, Redis and test services
+Worked in a branch-per-task workflow with review and automated validation
+FastAPI Production Foundation
 
-### Frontend
+Reusable backend template built with FastAPI as a foundation for future backend projects.
 
-- React
-- TypeScript
+The goal of this project is to provide a production-oriented starting point for backend applications with authentication, database setup, tests, Docker, CI, observability and development tooling already prepared.
 
----
+Stack: Python, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, Redis, pytest, GitHub Actions, Prometheus
 
-## What I'm Building
+Features and areas covered:
 
-### FastAPI Backend Template
+modular FastAPI application structure
+PostgreSQL and Alembic migration setup
+JWT authentication foundation
+Docker Compose development environment
+pytest setup with coverage threshold
+GitHub Actions validation pipeline
+healthchecks and Prometheus metrics
+security checks with Trivy, pip-audit and gitleaks
+backporting bug fixes from Appointment Voice SaaS back into the base template
+Current Focus
+Backend architecture
+REST API design
+PostgreSQL and database modelling
+Docker-based development workflows
+CI/CD and automated quality gates
+Observability and monitoring
+Security basics for backend projects
+AI-assisted software development workflows
+Background
 
-Production-oriented backend template featuring:
+Before moving deeper into software development, I worked in technical event production, handling audio/video systems, livestream setups, on-site troubleshooting and client-facing technical work.
 
-- JWT Authentication
-- Refresh Token Rotation
-- Role-Based Access Control (RBAC)
-- Redis Integration
-- PostgreSQL
-- Alembic Migrations
-- Request Logging
-- Dockerized Development Environment
-- Automated Testing
-- GitHub Actions CI
+That experience shaped how I approach backend development: practical problem solving, debugging under pressure, responsibility for systems that need to work reliably and clear communication when something breaks.
 
----
+Philosophy
 
-### OnTrack
+Build. Ship. Measure. Improve.
 
-Habit and productivity tracking application focused on consistency and long-term progress.
-
-🔗 https://ontrackapp.up.railway.app/
-
-Tech stack:
-
-- FastAPI
-- React
-- PostgreSQL
-- Docker
-- Railway
-
----
-
-## Current Focus
-
-- Backend Architecture
-- System Design Fundamentals
-- DevOps & Cloud Engineering
-- Observability & Monitoring
-- Scalable API Development
-
----
-
-## Philosophy
-
-Build.
-Ship.
-Measure.
-Improve.
-
-Learning comes from running real systems, solving real problems and iterating continuously.
+Learning comes from building real systems, debugging real problems and improving through iteration.
