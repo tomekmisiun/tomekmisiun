@@ -93,7 +93,7 @@ The goal of this project is to provide a production-oriented starting point for 
 
 Before moving deeper into software development, I worked in technical event production, handling audio/video systems, livestream setups, on-site troubleshooting and client-facing technical work.
 
-That experience shaped how I approach backend development: practical problem solving, debugging under pressure, responsibility for systems that need to work reliably and clear communication when something breaks.
+That experience shaped how I approach backend development: practical problem solving, debugging issues, responsibility for systems that need to work reliably and clear communication when something breaks.
 
 ---
 
