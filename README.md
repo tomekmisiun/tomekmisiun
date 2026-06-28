@@ -198,69 +198,62 @@ The template keeps one source of truth for development rules and provides adapte
 ### Backend and APIs
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-<img src="https://img.shields.io/badge/Alembic-6BA81E?style=flat-square" alt="Alembic" />
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" alt="REST API" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/httpx-2D3748?style=flat-square" alt="httpx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="44" height="44" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="44" height="44" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pydantic/pydantic-original.svg" width="44" height="44" alt="Pydantic" title="Pydantic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="44" height="44" alt="SQLAlchemy" title="SQLAlchemy" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="44" height="44" alt="JWT" title="JSON Web Tokens" />
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" width="44" height="44" alt="OpenAPI" title="OpenAPI / REST APIs" />
 </p>
 
 ### Databases, queues and storage
 
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white" alt="MinIO" />
-<img src="https://img.shields.io/badge/S3_compatible-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="S3-compatible storage" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="44" height="44" alt="Redis" title="Redis" />
+  <img src="https://cdn.simpleicons.org/minio/C72E49" width="44" height="44" alt="MinIO" title="MinIO" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="44" height="44" alt="Amazon S3" title="S3-compatible storage" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="44" height="44" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="44" height="44" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" title="Tailwind CSS" />
 </p>
 
 ### Testing and quality
 
 <p>
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
-<img src="https://img.shields.io/badge/pytest--cov-0A9EDC?style=flat-square" alt="pytest-cov" />
-<img src="https://img.shields.io/badge/pytest--xdist-0A9EDC?style=flat-square" alt="pytest-xdist" />
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-<img src="https://img.shields.io/badge/Ruff-D7FF64?style=flat-square&logo=ruff&logoColor=black" alt="Ruff" />
-<img src="https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=precommit&logoColor=black" alt="pre-commit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="44" height="44" alt="pytest" title="pytest, pytest-cov and pytest-xdist" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="44" height="44" alt="Vitest" title="Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="44" height="44" alt="Playwright" title="Playwright" />
+  <img src="https://cdn.simpleicons.org/ruff/D7FF64" width="44" height="44" alt="Ruff" title="Ruff" />
+  <img src="https://cdn.simpleicons.org/precommit/FAB040" width="44" height="44" alt="pre-commit" title="pre-commit" />
 </p>
 
 ### DevOps, security and observability
 
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-<img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" alt="Sentry" />
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white" alt="Trivy" />
-<img src="https://img.shields.io/badge/gitleaks-6F42C1?style=flat-square" alt="gitleaks" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="44" height="44" alt="Docker" title="Docker and Docker Compose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="44" height="44" alt="GitHub Actions" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" alt="Linux" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="44" height="44" alt="Bash" title="Bash" />
+  <img src="https://cdn.simpleicons.org/railway/0B0D0E" width="44" height="44" alt="Railway" title="Railway" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="44" height="44" alt="Prometheus" title="Prometheus" />
+  <img src="https://cdn.simpleicons.org/sentry/362D59" width="44" height="44" alt="Sentry" title="Sentry" />
+  <img src="https://cdn.simpleicons.org/trivy/1904DA" width="44" height="44" alt="Trivy" title="Trivy" />
 </p>
 
 ### Integrations and AI tooling
 
 <p>
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Codex_CLI-000000?style=flat-square&logo=openai&logoColor=white" alt="Codex CLI" />
-<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" alt="Cursor" />
-<img src="https://img.shields.io/badge/LLM_APIs-6C63FF?style=flat-square" alt="LLM APIs" />
+  <img src="https://github.com/twilio.png?size=80" width="44" height="44" alt="Twilio" title="Twilio" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" width="44" height="44" alt="Claude Code" title="Claude Code" />
+  <img src="https://github.com/openai.png?size=80" width="44" height="44" alt="Codex CLI" title="Codex CLI and LLM APIs" />
+  <img src="https://cdn.simpleicons.org/cursor/000000" width="44" height="44" alt="Cursor" title="Cursor" />
 </p>
 
 ---
